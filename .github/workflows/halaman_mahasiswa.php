@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+	
 <head>
     <title>Website Bimbingan Proyek 1</title>
     <link rel="stylesheet" type="text/css" href="style_awalmahasiswa.css">
